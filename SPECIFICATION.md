@@ -1,11 +1,11 @@
-# Word Counter Utility Specification
+# # SelectedWordCounter Utility Specification
 
 ## Overview
 A Windows utility built with AutoHotkey v2 that allows users to count words in currently selected text across any Windows application via a global hotkey or tray-icon menu.
 
 ## Version Information
 - Version: 1.0.0
-- Last Updated: 2024-03-21
+- Last Updated: 2025-05-05
 
 ## Core Features
 

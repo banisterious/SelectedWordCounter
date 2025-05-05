@@ -1,4 +1,4 @@
-# Word Counter
+# SelectedWordCounter
 
 A Windows utility to count words in selected text across any application.
 
